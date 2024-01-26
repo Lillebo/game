@@ -1,6 +1,6 @@
 # 🕹️ Game
 
-Old 2D platformer built from scratch in vanilla JavaScript with gamepad support.
+Old (poorly optimized) 2D platformer built from scratch in vanilla JavaScript with gamepad support.
 
 ![gif of gameplay](gameplay.gif)
 
@@ -8,3 +8,5 @@ Old 2D platformer built from scratch in vanilla JavaScript with gamepad support.
 - **Move**: <kbd>←</kbd><kbd>↑</kbd><kbd>→</kbd><kbd>↓</kbd> (Arrow keys)
 - **Jump**: <kbd>Space</kbd>
 - **Attack**: <kbd>x</kbd>
+
+Runs best in Chromium.
